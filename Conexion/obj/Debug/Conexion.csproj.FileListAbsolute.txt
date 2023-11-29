@@ -1,0 +1,10 @@
+C:\Users\MSI KATANA\Documents\AyDS II\PERNOVA2.0\Conexion\bin\Debug\Conexion.dll
+C:\Users\MSI KATANA\Documents\AyDS II\PERNOVA2.0\Conexion\bin\Debug\Conexion.pdb
+C:\Users\MSI KATANA\Documents\AyDS II\PERNOVA2.0\Conexion\bin\Debug\Modelo.dll
+C:\Users\MSI KATANA\Documents\AyDS II\PERNOVA2.0\Conexion\bin\Debug\Modelo.pdb
+C:\Users\MSI KATANA\Documents\AyDS II\PERNOVA2.0\Conexion\bin\Debug\Modelo.dll.config
+C:\Users\MSI KATANA\Documents\AyDS II\PERNOVA2.0\Conexion\obj\Debug\Conexion.csproj.AssemblyReference.cache
+C:\Users\MSI KATANA\Documents\AyDS II\PERNOVA2.0\Conexion\obj\Debug\Conexion.csproj.CoreCompileInputs.cache
+C:\Users\MSI KATANA\Documents\AyDS II\PERNOVA2.0\Conexion\obj\Debug\Conexion.csproj.CopyComplete
+C:\Users\MSI KATANA\Documents\AyDS II\PERNOVA2.0\Conexion\obj\Debug\Conexion.dll
+C:\Users\MSI KATANA\Documents\AyDS II\PERNOVA2.0\Conexion\obj\Debug\Conexion.pdb
