@@ -1,0 +1,7 @@
+C:\Users\MSI KATANA\Documents\AyDS II\PERNOVA2.0\Modelo\bin\Debug\Modelo.dll.config
+C:\Users\MSI KATANA\Documents\AyDS II\PERNOVA2.0\Modelo\bin\Debug\Modelo.dll
+C:\Users\MSI KATANA\Documents\AyDS II\PERNOVA2.0\Modelo\bin\Debug\Modelo.pdb
+C:\Users\MSI KATANA\Documents\AyDS II\PERNOVA2.0\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+C:\Users\MSI KATANA\Documents\AyDS II\PERNOVA2.0\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\MSI KATANA\Documents\AyDS II\PERNOVA2.0\Modelo\obj\Debug\Modelo.dll
+C:\Users\MSI KATANA\Documents\AyDS II\PERNOVA2.0\Modelo\obj\Debug\Modelo.pdb
